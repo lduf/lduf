@@ -44,17 +44,27 @@
 <code><img height="30" src="/img/raspberry.svg"></code>
 </p>	
 	
-<h4> OS : </h4>
+<h4 align="center"> OS : </h4>
+
+<p align="center">
 <code><img height="30" src="/img/macos.svg"></code>
 <code><img height="30" src="/img/windows.svg"></code>
 <code><img height="30" src="/img/linux.svg"></code>
-<h4> 📚 Learning : </h4>
+</p>
+
+<h4 align="center"> 📚 Learning : </h4>
+
+<p align="center">
 <code><img height="30" src="/img/python.svg"></code>
 <code><img height="30" src="/img/javascript.svg"></code>
 <code><img height="30" src="/img/haskell.svg"></code>
 <code><img height="30" src="/img/go.svg"></code>
 <code><img height="30" src="/img/swift.svg"></code>
-<h4> 👨‍💻 Software : </h4>
+</p>
+
+<h4 align="center"> 👨‍💻 Software : </h4>
+
+<p align="center">
 <code><img height="30" src="/img/vim.svg"></code>
 <code><img height="30" src="/img/dreamweaver.svg"></code>
 <code><img height="30" src="/img/pycharm.svg"></code>
