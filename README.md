@@ -21,19 +21,18 @@
 </p>
 
 <hr> 
-<p align="center">
+
 <h4> :computer: Skills: </h4>
 
-  
-<code><img height="30" src="/img/java.svg"></code>
-<code><img height="30" src="/img/php.svg"></code>
-<code><img height="30" src="/img/html5.svg"></code>
-<code><img height="30" src="/img/bootstrap.svg"></code>
-<code><img height="30" src="/img/css.svg"></code>
-<code><img height="30" src="/img/json.svg"></code>
-<code><img height="30" src="/img/mysql.svg"></code>
-
-
+<p align="center">
+ <code><img title="java" height="30" src="/img/java.svg"></code>
+ <code><img height="30" src="/img/php.svg"></code>
+ <code><img height="30" src="/img/html5.svg"></code>
+ <code><img height="30" src="/img/bootstrap.svg"></code>
+ <code><img height="30" src="/img/css.svg"></code>
+ <code><img height="30" src="/img/json.svg"></code>
+ <code><img height="30" src="/img/mysql.svg"></code>
+</p>
 
 
 <h4> :wrench: Tools :</h4>
