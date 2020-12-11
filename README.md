@@ -21,6 +21,7 @@
 </p>
 
 <hr> 
+
 ### :computer: Skills: 
 
 <code><img height="30" src="/img/java.svg"></code>
