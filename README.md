@@ -21,8 +21,11 @@
 </p>
 
 <hr> 
+
+
+<h4 align="center"> :computer: Skills: </h4>
+
 <p align="center">
-<h4> :computer: Skills: </h4>
  <code><img title="java" height="30" src="/img/java.svg"></code>
  <code><img height="30" src="/img/php.svg"></code>
  <code><img height="30" src="/img/html5.svg"></code>
@@ -30,11 +33,17 @@
  <code><img height="30" src="/img/css.svg"></code>
  <code><img height="30" src="/img/json.svg"></code>
  <code><img height="30" src="/img/mysql.svg"></code>
-<h4> :wrench: Tools :</h4>
+</p>
+
+<h4 align="center"> :wrench: Tools :</h4>
+
+<p align="center">
 <code><img height="30" src="/img/terminal.svg"></code>
 <code><img height="30" src="/img/git.svg"></code>
 <code><img height="10" src="/img/subversion.svg"></code>
 <code><img height="30" src="/img/raspberry.svg"></code>
+</p>	
+	
 <h4> OS : </h4>
 <code><img height="30" src="/img/macos.svg"></code>
 <code><img height="30" src="/img/windows.svg"></code>
