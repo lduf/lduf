@@ -44,7 +44,7 @@
 <code><img height="30" src="/img/raspberry.svg"></code>
 </p>	
 	
-<h4 align="center"> OS : </h4>
+<h4 align="center">🖱️ OS : </h4>
 
 <p align="center">
 <code><img height="30" src="/img/macos.svg"></code>
