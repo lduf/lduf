@@ -8,22 +8,32 @@
 
 ### :computer: Skills: 
 
-<code><img height="30" src="/img/php.svg"></code>
+
 <code><img height="30" src="/img/java.svg"></code>
+
+**Web**
+
+<code><img height="30" src="/img/php.svg"></code>
 <code><img height="30" src="/img/html5.svg"></code>
 <code><img height="30" src="/img/bootstrap.svg"></code>
 <code><img height="30" src="/img/css.svg"></code>
+<code><img height="30" src="/img/json.svg"></code>
 <code><img height="30" src="/img/mysql.svg"></code>
 
 
 
-### :hammer: Tools ###
+### :wrench: Tools :
 
 <code><img height="30" src="/img/terminal.svg"></code>
 <code><img height="30" src="/img/git.svg"></code>
+<code><img height="10" src="/img/subversion.svg"></code>
+
+**OS**
+
 <code><img height="30" src="/img/macos.svg"></code>
 <code><img height="30" src="/img/windows.svg"></code>
 <code><img height="30" src="/img/linux.svg"></code>
+<code><img height="30" src="/img/raspberry.svg"></code>
 
 ### :pencil: Learning :
 
@@ -31,6 +41,17 @@
 <code><img height="30" src="/img/javascript.svg"></code>
 <code><img height="30" src="/img/haskell.svg"></code>
 <code><img height="30" src="/img/go.svg"></code>
+<code><img height="30" src="/img/swift.svg"></code>
+
+### 👨‍💻 Software :
+
+<code><img height="30" src="/img/vim.svg"></code>
+<code><img height="30" src="/img/dreamweaver.svg"></code>
+<code><img height="30" src="/img/pycharm.svg"></code>
+<code><img height="30" src="/img/eclipse.svg"></code>
+<code><img height="30" src="/img/adobecc.svg"></code>
+<code><img height="30" src="/img/intelliJ.svg"></code>
+
 
 <!--
 **lduf/lduf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
