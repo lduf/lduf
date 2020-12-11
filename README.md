@@ -23,7 +23,8 @@
 <hr> 
 
 ### :computer: Skills: 
-
+<center>
+  
 <code><img height="30" src="/img/java.svg"></code>
 <code><img height="30" src="/img/php.svg"></code>
 <code><img height="30" src="/img/html5.svg"></code>
@@ -32,6 +33,7 @@
 <code><img height="30" src="/img/json.svg"></code>
 <code><img height="30" src="/img/mysql.svg"></code>
 
+</center>
 
 
 ### :wrench: Tools :
