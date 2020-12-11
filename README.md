@@ -21,10 +21,8 @@
 </p>
 
 <hr> 
-
-<h4> :computer: Skills: </h4>
-
 <p align="center">
+<h4> :computer: Skills: </h4>
  <code><img title="java" height="30" src="/img/java.svg"></code>
  <code><img height="30" src="/img/php.svg"></code>
  <code><img height="30" src="/img/html5.svg"></code>
@@ -32,40 +30,28 @@
  <code><img height="30" src="/img/css.svg"></code>
  <code><img height="30" src="/img/json.svg"></code>
  <code><img height="30" src="/img/mysql.svg"></code>
-</p>
-
-
 <h4> :wrench: Tools :</h4>
-
 <code><img height="30" src="/img/terminal.svg"></code>
 <code><img height="30" src="/img/git.svg"></code>
 <code><img height="10" src="/img/subversion.svg"></code>
 <code><img height="30" src="/img/raspberry.svg"></code>
-
 <h4> OS : </h4>
-
 <code><img height="30" src="/img/macos.svg"></code>
 <code><img height="30" src="/img/windows.svg"></code>
 <code><img height="30" src="/img/linux.svg"></code>
-
-
 <h4> 📚 Learning : </h4>
-
 <code><img height="30" src="/img/python.svg"></code>
 <code><img height="30" src="/img/javascript.svg"></code>
 <code><img height="30" src="/img/haskell.svg"></code>
 <code><img height="30" src="/img/go.svg"></code>
 <code><img height="30" src="/img/swift.svg"></code>
-
 <h4> 👨‍💻 Software : </h4>
-
 <code><img height="30" src="/img/vim.svg"></code>
 <code><img height="30" src="/img/dreamweaver.svg"></code>
 <code><img height="30" src="/img/pycharm.svg"></code>
 <code><img height="30" src="/img/eclipse.svg"></code>
 <code><img height="30" src="/img/adobecc.svg"></code>
 <code><img height="30" src="/img/intelliJ.svg"></code>
-
 </p>
 
 <hr>
