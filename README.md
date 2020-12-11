@@ -6,7 +6,7 @@
 </h5>
 
 <p align="center">
-  Hi, I'm Lucas, I'm a French Computer & Telecom Engineer Student at <a href="https://www.insa-lyon.fr/" title="school"> <img width="30" src="/img/insa.svg"> INSA Lyon </a>  up to 2023.
+  Hi, I'm Lucas, I'm a French Computer & Telecom Engineering Student at <a href="https://www.insa-lyon.fr/" title="school"> <img width="30" src="/img/insa.svg"> INSA Lyon </a>  up to 2023.
   <br>
   <br>
   💼 I worked on a communication campaign analysis tool with <img height="18" src="/img/php.svg">
