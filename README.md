@@ -70,9 +70,26 @@
 </p>
 
 <hr>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lduf&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+
+</details>
+
+<details>	
+  <br />
+  <summary><b>⚙️ My current setup</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> macOS Big Sur</li>
+      <li><b>Laptop: </b> Imac 2015 27" </li>
+	    <li><b>Laptop: </b> MacBook Pro 15"</li>
+  	    <li><b>Browser: </b> Safari, Chrome</li>
+	    <li><b>Code Editor:</b> Dreamweaver, IntelliJ, Vim</li>
+	</ul>	
+</details>
 <!--
 **lduf/lduf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
