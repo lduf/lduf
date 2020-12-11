@@ -17,7 +17,7 @@
   <br>
   📫 How to reach me: <a href="mailto: contact@lucasdufour.fr ">contact@lucasdufour.fr </a>
   <br>
-  ⚡ I'm crazy about code optimization :flushed:
+  ⚡ I'm mad of code optimization :flushed:
 </p>
 
 <hr> 
