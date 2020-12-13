@@ -82,7 +82,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Haskell   6 mins          ████████████████░░░░░░░░░   63.82 % 
+Python    3 mins          █████████░░░░░░░░░░░░░░░░   36.18 % 
 ```
 <!--END_SECTION:waka-->
 
