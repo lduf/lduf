@@ -82,8 +82,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Haskell   6 mins          ████████████████░░░░░░░░░   63.82 % 
-Python    3 mins          █████████░░░░░░░░░░░░░░░░   36.18 % 
+Haskell    6 mins          ████████████████░░░░░░░░░   63.82 % 
+Python     3 mins          █████████░░░░░░░░░░░░░░░░   36.18 % 
 ```
 <!--END_SECTION:waka-->
 
