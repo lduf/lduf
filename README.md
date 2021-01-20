@@ -88,6 +88,9 @@ Python     2 hrs 47 mins   █████████░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+![](https://visitor-badge.glitch.me/badge?page_id=lduf.lduf)
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lduf&show_icons=true&theme=gotham" alt="lduf" widht="500" height="150"/>
 </details>
 
 <details>	
