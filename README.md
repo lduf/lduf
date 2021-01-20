@@ -78,9 +78,12 @@
   <summary><b>⚡ Github Stats</b></summary>
 
 [![time tracker](https://wakatime.com/badge/github/lduf/lduf.svg)](https://wakatime.com/badge/github/lduf/lduf)
+![](https://visitor-badge.glitch.me/badge?page_id=lduf.lduf)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lduf&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lduf&show_icons=true&theme=gotham" alt="lduf" widht="500" height="150"/>
+	
 <!--START_SECTION:waka-->
 ```text
 Other      5 hrs 1 min     ████████████████░░░░░░░░░   64.29 % 
@@ -88,9 +91,9 @@ Python     2 hrs 47 mins   █████████░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-![](https://visitor-badge.glitch.me/badge?page_id=lduf.lduf)
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lduf&show_icons=true&theme=gotham" alt="lduf" widht="500" height="150"/>
+
+
 </details>
 
 <details>	
