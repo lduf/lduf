@@ -2,7 +2,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/lucas-d-523635128/" title="LinkedIn Profile"><img width="22" src="/img/linkedin.svg"> LinkedIn</a></code>
 <code><a href="https://www.linkedin.com/in/lucas-d-523635128/" title="Instagram Profile"><img width="22" src="/img/instagram.svg"> Instagram</a></code>
-  <code><a href="https://www.linkedin.com/in/lucas-d-523635128/" title="StackoverFlow Profile"><img width="22" src="/img/stackoverflow.svg"> StackoverFlow</a></code>
+  <code><a href="https://stackoverflow.com/users/11863382/lucas" title="StackoverFlow Profile"><img width="22" src="/img/stackoverflow.svg"> StackoverFlow</a></code>
 </h5>
 
 <p align="center">
