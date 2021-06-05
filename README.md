@@ -89,7 +89,10 @@
 	
 <!--START_SECTION:waka-->
 ```text
-Python   3 hrs 43 mins   █████████████████████████   100.00 % 
+Python           3 hrs 43 mins   █████████████████▓░░░░░░░   70.17 % 
+PHP              1 hr 15 mins    ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+Other            14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Blade Template   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 <!--END_SECTION:waka-->
 
