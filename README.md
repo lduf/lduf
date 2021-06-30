@@ -89,7 +89,11 @@
 	
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Git Config   13 mins         █████████▓░░░░░░░░░░░░░░░   38.74 % 
+Bash         9 mins          ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+Other        7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.41 % 
+XML          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Markdown     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 ```
 <!--END_SECTION:waka-->
 
