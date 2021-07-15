@@ -89,8 +89,7 @@
 	
 <!--START_SECTION:waka-->
 ```text
-PHP          4 mins          ███████████░░░░░░░░░░░░░░   44.25 % 
-Makefile     4 mins          ██████████▒░░░░░░░░░░░░░░   41.48 % 
+Makefile   4 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
