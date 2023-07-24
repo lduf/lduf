@@ -6,7 +6,7 @@
 </h5>
 
 <p align="center">
-  Hi, I'm Lucas, I'm a French Computer & Telecom Engineering Student at <a href="https://www.insa-lyon.fr/" title="school"> <img width="30" src="/img/insa.svg"> INSA Lyon </a>  up to 2023.
+  Hi, I'm Lucas, I'm a French Computer & Telecom Engineering Student at <a href="https://www.insa-lyon.fr/" title="school"> <img width="30" src="/img/insa.svg"> INSA Lyon </a>  up to 2024.
   <br>
   <br>
   💼 I worked on a communication campaign analysis tool with <img height="18" src="/img/php.svg">
@@ -102,11 +102,11 @@ No Activity tracked this Week
   <br />
   <summary><b>⚙️ My current setup</b></summary>
   	<ul>
-  	    <li><b>OS:</b> macOS Big Sur</li>
+  	    <li><b>OS:</b> macOS </li>
       <li><b>Laptop: </b> Imac 2015 27" </li>
-	    <li><b>Laptop: </b> MacBook Pro 15"</li>
+	    <li><b>Laptop: </b> MacBook Pro - M2 Max 16"</li>
   	    <li><b>Browser: </b> Safari, Chrome</li>
-	    <li><b>Code Editor:</b> Dreamweaver, IntelliJ, Vim</li>
+	    <li><b>Code Editor:</b> IntelliJ, VSC, Vim</li>
 	</ul>	
 </details>
 <!--
