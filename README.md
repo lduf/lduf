@@ -103,7 +103,6 @@ No Activity tracked this Week
   <summary><b>⚙️ My current setup</b></summary>
   	<ul>
   	    <li><b>OS:</b> macOS </li>
-      <li><b>Laptop: </b> Imac 2015 27" </li>
 	    <li><b>Laptop: </b> MacBook Pro - M2 Max 16"</li>
   	    <li><b>Browser: </b> Safari, Chrome</li>
 	    <li><b>Code Editor:</b> IntelliJ, VSC, Vim</li>
